@@ -37,10 +37,11 @@ Our project focuses on evaluating the clinic’s **security posture**, identifyi
 
 ## 📅 Meeting Minutes
 
-- [Week 2 Meeting Minutes](docs/meetings/week02-meeting.md)
-- [Week 3 Meeting Minutes](docs/meetings/week03-meeting.md)
-- [Week 4 Meeting Minutes](docs/meetings/week04-meeting.md)
-- [Week 5 Meeting Minutes](docs/meetings/week05-meeting.md)
+- [Week 2 Meeting Minutes](week02-meeting.md)
+- [Week 3 Meeting Minutes](week03-meeting.md)
+- [Week 4 Meeting Minutes](week04-meeting.md)
+- [Week 5 Meeting Minutes](week05-meeting.md)
+- [Week 6 Meeting Minutes](week06-meeting.md)
 
 
 
