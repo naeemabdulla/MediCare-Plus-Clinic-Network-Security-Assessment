@@ -35,3 +35,11 @@ Our project focuses on evaluating the clinic’s **security posture**, identifyi
 
 ## 📁 Repository Structure
 
+## 📅 Meeting Minutes
+- [Week 2 Meeting](docs/meetings/week02-meeting.md)
+- [Week 3 Meeting](docs/meetings/week03-meeting.md)
+- [Week 4 Meeting](docs/meetings/week04-meeting.md)
+- [Week 5 Meeting](docs/meetings/week05-meeting.md)
+
+
+
