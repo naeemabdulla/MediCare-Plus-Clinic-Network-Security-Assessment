@@ -1,6 +1,6 @@
 # Week 2 Meeting Minutes
 
-**Date:** Monday, 9 March 2026  
+**Date:** Monday, 16 March 2026  
 **Time:** 7:00 PM – 7:45 PM AEST  
 **Platform:** Microsoft Teams  
 **Attendees:** Carlos Gomez Mendez, Abdullah Naeem, Kishan Durlabhbhai Patel  
